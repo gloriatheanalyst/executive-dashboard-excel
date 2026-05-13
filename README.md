@@ -69,7 +69,11 @@ Each card includes a **sparkline** showing the underlying trend and a **vs PY (P
 ---
 
 ### 2. 🛍️ Product Category Analysis (Center — Bubble Chart)
-A radial bubble/scatter visualization maps **7 product categories** (Desk, Tablet, Laptop, Phone, Printer, Chair, Monitor) by revenue. The center node shows the **Retail channel share at 50.13%**, providing instant channel context alongside product performance.
+A radial bubble visualization maps **7 product categories** by revenue contribution. The center node represents the **Retail channel at 50.13%** the dominant sales channel across all products.
+
+**Laptop** is highlighted in **orange** as the top-performing product in the Retail channel at **$678.5K**, distinguishing it from the remaining categories. The other 6 products (Tablet, Desk, Monitor, Chair, Printer,Phone) radiate outward, sized and colored by their relative revenue giving executives an instant read on product mix and channel concentration in a single visual.
+
+Key takeaway: **Laptop and Tablet together account for the two highest revenue products**, with Laptop holding the retail channel crown.
 
 ---
 
@@ -84,7 +88,7 @@ Vertical bar chart comparing revenue across 4 stores:
 ### 4. 👤 Salesperson Performance (Lollipop Chart)
 Ranked view of 6 salespeople:
 - **Bob** tops the leaderboard at **$790.2K**
-- **Diana** ranks lowest at **$669.5K** — still a strong performer
+- **Diana** ranks lowest at **$669.5K** still a strong performer
 - The narrow spread signals a well-balanced, high-performing team
 
 ---
@@ -102,13 +106,13 @@ Revenue by payment channel:
 - **Online** is the #1 channel at **$962K**
 - **Cash** is a close second at **$942K**
 - **Debit Card** trails at **$762K**
-- Insight: Digital and in-person payments are nearly equal — suggesting a broad, omnichannel customer base
+- Insight: Digital and in-person payments are nearly equal suggesting a broad, omnichannel customer base
 
 ---
 
 ### 7. 📈 Sales Trend (Area Chart)
 Monthly revenue trend across the full year (Jan–Dec):
-- Reveals **seasonality patterns** and peak sales periods
+- Reveals **seasonality patterns** and peak sales periods in March at **527k**
 - Smoothed area fill under the line adds visual depth while maintaining readability
 
 ---
@@ -123,12 +127,12 @@ Geographic revenue breakdown:
 
 ## 💡 Key Insights
 
-1. **Revenue grew 67.8% YoY** — a strong signal of business growth or expanded data coverage across years
-2. **Avg Order Value declined 0.9%** despite volume growth — suggesting more frequent but slightly smaller purchases; worth monitoring
-3. **Returns rose 72.2% YoY** — growing at a rate exceeding revenue growth; warrants investigation into product quality or customer experience
-4. **Tablet and Laptop are the top products** at ~$678K each — electronics dominate the product mix
-5. **Online and Cash payments are nearly tied** — the business serves both digital-native and traditional customers equally
-6. **Store performance is remarkably balanced** — no single store is dramatically outperforming, suggesting consistent operational standards
+1. **Revenue grew 67.8% YoY** - a strong signal of business growth or expanded data coverage across years
+2. **Avg Order Value declined 0.9%** despite volume growth - suggesting more frequent but slightly smaller purchases; worth monitoring
+3. **Returns rose 72.2% YoY** - growing at a rate exceeding revenue growth; warrants investigation into product quality or customer experience
+4. **Tablet and Laptop are the top products** at ~$678K each - electronics dominate the product mix
+5. **Online and Cash payments are nearly tied** - the business serves both digital-native and traditional customers equally
+6. **Store performance is remarkably balanced** - no single store is dramatically outperforming, suggesting consistent operational standards
 7. **North region leads consistently** across both Regional Performance and Revenue by Region charts
 
 ---
@@ -152,21 +156,4 @@ Geographic revenue breakdown:
 4. Use the **Store slicer** to filter by Store A, B, C, or D
 5. All charts and KPI cards update **dynamically** based on your selection
 
----
 
-## 👤 Author
-
-**[Your Name]**
-Data Analyst | Excel & Data Visualization
-
-🔗 [LinkedIn Profile](#) | 🌐 [Portfolio](#) | 📧 [Email](#)
-
----
-
-## 📃 License
-
-This project is open for viewing and inspiration. Please credit the author if you use or adapt any part of this work.
-
----
-
-*Built with 💚 in Microsoft Excel — no BI tools required.*
