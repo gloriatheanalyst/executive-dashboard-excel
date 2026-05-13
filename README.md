@@ -1,6 +1,6 @@
 # 📊 Executive Sales Dashboard — Microsoft Excel
 
-![Executive Sales Dashboard]([Executive_Sales_Dashboard.png](https://github.com/gloriatheanalyst/executive-dashboard-excel/blob/main/Executive%20Sales%20Dashboard.png))
+![Executive Sales Dashboard]((https://github.com/gloriatheanalyst/executive-dashboard-excel/blob/main/Executive%20Sales%20Dashboard.png))
 
 ---
 
