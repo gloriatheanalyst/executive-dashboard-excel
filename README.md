@@ -1,4 +1,3 @@
-# Executive-Dashboard-Excel
 # 📊 Executive Sales Dashboard — Excel
 
 ## Overview
@@ -17,7 +16,8 @@ stores, regions, salespeople, and payment methods.
 - Slicers & Timeline filters
 
 ## Preview
-[paste your dashboard screenshot here]
+[<img width="1333" height="889" alt="Executive Sales Dashboard" src="https://github.com/user-attachments/assets/e0f6bd04-1fcf-400e-bcdc-a1fd2ac265fe" />
+]
 
 ## Key Insights
 - Store D led revenue at $1.2M
