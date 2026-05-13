@@ -1,7 +1,8 @@
 # 📊 Executive Sales Dashboard — Microsoft Excel
 
-((<img width="1280" height="710" alt="photo_2025-12-12_12-21-09" src="https://github.com/user-attachments/assets/ae42c9ee-0edd-4da7-af5e-5b5087225013" />
-))
+(<img width="1428" height="891" alt="Executive Sales Dashboard" src="https://github.com/user-attachments/assets/e131e785-bff9-4fa0-82ec-dfc787d69453" />
+
+)
 
 ---
 
