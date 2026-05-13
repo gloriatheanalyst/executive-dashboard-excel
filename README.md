@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates how raw transactional sales data can be transformed into a **dynamic, interactive Executive Sales Dashboard** using Microsoft Excel. Built entirely without any BI software, the dashboard delivers the visual clarity and interactivity of tools like Power BI or Tableau — using only Excel's native capabilities.
+This project demonstrates how raw transactional sales data can be transformed into a **dynamic, interactive Executive Sales Dashboard** using Microsoft Excel. Built entirely without any BI software, the dashboard delivers the visual clarity and interactivity of tools like Power BI or Tableau using only Excel's native capabilities.
 
 The dashboard is designed for **C-suite and management reporting**, enabling decision-makers to monitor KPIs, track year-over-year performance, and drill into sales behavior across products, people, regions, and payment channels — all from a single screen.
 
@@ -26,9 +26,9 @@ Sales teams and executives often struggle to extract timely, actionable insights
 ## 🎯 Objectives
 
 - ✅ Build a fully interactive dashboard using only Microsoft Excel
-- ✅ Create KPI cards tracking Revenue, Orders, AOV, Discounts, and Returns with YoY % change
+- ✅ Create KPI cards tracking Revenue, Orders, Average Order Value (AOV), Discounts, and Returns with YoY % change
 - ✅ Analyze performance across products, salespeople, regional managers, regions, and payment modes
-- ✅ Design visuals that are executive-ready — clean, professional, and immediately interpretable
+- ✅ Design visuals that are executive-ready clean, professional, and immediately interpretable
 - ✅ Implement dynamic filtering using Slicers and a Timeline control
 
 ---
@@ -44,7 +44,7 @@ Sales teams and executives often struggle to extract timely, actionable insights
 | **Dynamic Scatter/Bubble Chart** | Product category revenue visualization |
 | **Donut Chart** | Regional manager performance breakdown |
 | **Lollipop Chart** | Salesperson performance ranking |
-| **Area/Line Chart** | Monthly sales trend visualization |
+| **Line Chart** | Monthly sales trend visualization |
 | **Horizontal Bar Chart** | Payment method comparison |
 | **Sparklines** | Inline trend indicators in KPI cards |
 | **Conditional Formatting** | ▲▼ YoY change indicators (green/red) |
