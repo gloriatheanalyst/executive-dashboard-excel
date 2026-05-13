@@ -1,6 +1,5 @@
 # 📊 Executive Sales Dashboard — Microsoft Excel
 
-![Executive Sales Dashboard]
 ((https://github.com/gloriatheanalyst/executive-dashboard-excel/blob/main/Executive%20Sales%20Dashboard.png))
 
 ---
